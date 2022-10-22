@@ -1,3 +1,3 @@
-# final-project
+# React quiz app
 
-A full stack JavaScript solo project.
+This project is to build a simple quiz application using React
